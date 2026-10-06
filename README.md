@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./profile-ascii.svg" alt="Animated ASCII profile art" width="370" /></td>
+    <td valign="top"><img src="./profile-ascii.svg" alt="Animated ASCII portrait derived from the GitHub avatar" width="370" /></td>
     <td valign="top"><img src="./info-card.svg" alt="Developer profile information" width="490" /></td>
   </tr>
 </table>
