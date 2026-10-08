@@ -6,7 +6,7 @@
 
 <br><br>
 
-<h3><code>veeru@github ~ $ whoami</code></h3>
+<h3><code>veeru@github ~ $ Bhookya Veerendranath Sai</code></h3>
 
 <table>
   <tr>
